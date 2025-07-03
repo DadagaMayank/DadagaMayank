@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mayank Patel</h1>
+<h3 align="center">Aspiring Full Stack Developer | Python Enthusiast | MERN Stack Learner</h3>
 
-<!--
-**DadagaMayank/DadagaMayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Languages:** Python, C, C++, JavaScript, HTML, CSS
+- 🌐 **Frontend:** React.js, Tailwind CSS, Bootstrap
+- 🔧 **Backend:** Node.js, Express.js, Django (basic)
+- 🗄️ **Database:** MySQL, MongoDB
+- 🔗 **Others:** RESTful APIs, Git/GitHub
+
+---
+
+### 🛠️ Projects
+
+- 🔹 **Online Vegetable Shop** (Python, MySQL, Django)
+- 🔹 **Chat App** (MERN Stack)
+- 🔹 **Portfolio Website** (HTML, CSS, JS, Tailwind)
+- *(Add GitHub links to each project)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DadagaMayank&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadagaMayank&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+- Email: `patelmayank0.pm@gmail.com`
+- LinkedIn: [[Your LinkedIn if any]](https://www.linkedin.com/in/patel-mayank-70b046307/)
