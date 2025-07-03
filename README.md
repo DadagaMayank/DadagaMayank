@@ -17,8 +17,7 @@
 
 - 🔹 **Online Vegetable Shop** (Python, MySQL, Django)
 - 🔹 **Chat App** (MERN Stack)
-- 🔹 **Portfolio Website** (HTML, CSS, JS, Tailwind)
-- *(Add GitHub links to each project)*
+
 
 ---
 
