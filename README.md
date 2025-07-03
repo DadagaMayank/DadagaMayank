@@ -34,4 +34,4 @@
 ### 📫 Connect with me
 
 - Email: `patelmayank0.pm@gmail.com`
-- LinkedIn: [[Your LinkedIn if any]](https://www.linkedin.com/in/patel-mayank-70b046307/)
+- LinkedIn: [patel-mayank](https://www.linkedin.com/in/patel-mayank-70b046307/)
